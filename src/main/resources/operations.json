@@ -1,0 +1,42 @@
+[
+  {
+    "type": "RECEIVING",
+    "dateTime": "2023-02-15T19:19:19.673094600",
+    "quantity": 1000,
+    "size": "size36",
+    "cottonPart": 0,
+    "color": "WHITE"
+  },
+  {
+    "type": "RECEIVING",
+    "dateTime": "2023-02-15T19:19:35.413394",
+    "quantity": 1000,
+    "size": "size40",
+    "cottonPart": 0,
+    "color": "WHITE"
+  },
+  {
+    "type": "RECEIVING",
+    "dateTime": "2023-02-15T19:19:38.005449500",
+    "quantity": 1000,
+    "size": "size42",
+    "cottonPart": 0,
+    "color": "WHITE"
+  },
+  {
+    "type": "ISSUANCE",
+    "dateTime": "2023-02-15T19:19:48.702913600",
+    "quantity": 500,
+    "size": "size36",
+    "cottonPart": 0,
+    "color": "WHITE"
+  },
+  {
+    "type": "WRITE_OFF",
+    "dateTime": "2023-02-15T19:20:00.992728900",
+    "quantity": 500,
+    "size": "size42",
+    "cottonPart": 0,
+    "color": "WHITE"
+  }
+]
